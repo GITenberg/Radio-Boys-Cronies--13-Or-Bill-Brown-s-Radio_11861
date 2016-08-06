@@ -1,0 +1,33 @@
+_repo: Radio-Boys-Cronies--13-Or-Bill-Brown-s-Radio_11861
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Whipple, Wayne
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '4113'
+    url: http://www.gutenberg.org/2009/agents/4113
+  - agent_name: Aaron, S. F. (Samuel Francis)
+    alias: Aaron, S. F.
+    birthdate: 1862
+    gutenberg_agent_id: '4636'
+    url: http://www.gutenberg.org/2009/agents/4636
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Inventors -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- GITenberg
+title: "Radio Boys Cronies\r\nOr, Bill Brown's Radio"
+url: http://www.gutenberg.org/ebooks/11861
